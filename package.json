@@ -23,7 +23,7 @@
   ],
   "devDependencies": {
     "cypress": "^3.4.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "nodemon": "^1.19.3",
     "prettier": "^1.18.2",
     "start-server-and-test": "^1.10.2"
